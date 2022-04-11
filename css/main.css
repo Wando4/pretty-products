@@ -60,7 +60,7 @@ p {
   line-height: 1.5rem;
 }
 
-h2 > p {
+h2, p {
   margin: .1rem;
   padding-top: .4rem;
 }
