@@ -72,3 +72,26 @@ h2 > p {
   padding-top: .7rem;
   justify-content: space-between;
 }
+
+.item {
+  width: 110%;
+  padding-top: 1rem;
+  padding-left: 4rem;
+  padding-right: 4.05rem;
+  padding-bottom: .8rem;
+}
+
+.add-to-cart-button {
+  font-family: Oswald, sans-serif;
+  display: inline-block;
+  background-color: #6f00e7;
+  color: white;
+  border-radius: 3em;
+  text-decoration: none;
+  padding-top: .5em;
+  padding-bottom: .6em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  margin: 1rem;
+  justify-content: flex-start;
+}
