@@ -67,7 +67,7 @@ h2, p {
 
 .nav {
   display: flex;
-  line-height: 1.3rem;
+  line-height: 1.5rem;
   padding-top: .7rem;
   justify-content: space-between;
 }
